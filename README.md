@@ -1,13 +1,12 @@
 # NLP Portfolio
 
-Welcome to my NLP (Natural Language Processing) portfolio! I'm passionate about leveraging the power of NLP to solve real-world problems. This repository serves as an introduction to my work in the field of NLP, including projects on sentiment analysis, text summarization, and chatbot development.
+Welcome to my portfolio! I'm passionate about leveraging the power of Machine Learning to solve real-world problems. This repository serves as an introduction to my work in the field of Machine Learning, including NLP projects on sentiment analysis, text summarization, and chatbot development.
 
 ## About Me
 
-- **Name:** [Your Name]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio Website:** [Your Portfolio Website]
-- **Email:** [Your Email Address]
+- **Name:** Chirag B
+- **LinkedIn:** [chirag05b](https://www.linkedin.com/in/chirag05b/)
+- **Email:** chirag05b@gmail.com
 
 ## Projects
 
