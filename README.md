@@ -35,6 +35,6 @@ AWS • GCP • Docker • Tableau • JAX • MATLAB
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through any of the following channels:
 
 - LinkedIn: [chirag05b](https://www.linkedin.com/in/chirag05b/)
-- Email: [chirag05b@gmail.com]
+- Email: chirag05b@gmail.com
 
 Thank you for visiting my NLP portfolio, and I look forward to connecting with you!
