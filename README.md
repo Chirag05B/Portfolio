@@ -30,12 +30,11 @@ Welcome to my portfolio! I'm passionate about leveraging the power of Machine Le
 
 ## Skills
 - Experienced:
-Python • TensorFlow • Scikit-learn Pandas • Matplotlib • NLTK • spaCy
+Python • TensorFlow • Scikit-learn • Pandas • Matplotlib • NLTK • spaCy
 - Intermediate:
-PyTorch • SQL • PySpark
-Statistics • HuggingFace • Gradio
+PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio
 - Familiar:
-AWS • GCP • Docker Tableau • JAX • MATLAB
+AWS • GCP • Docker • Tableau • JAX • MATLAB
 
 ## Contact
 
