@@ -30,12 +30,11 @@ Welcome to my portfolio! I'm passionate about leveraging the power of Machine Le
 
 ## Skills
 
-- Natural Language Processing (NLP)
-- Machine Learning and Deep Learning
-- Python Programming
-- Data Preprocessing and Analysis
-- Model Evaluation and Metrics
-- [Any other relevant skills]
+• Programming Languages: Python, SQL
+• Machine Learning Libraries: Scikit-Learn, TensorFlow
+• Cloud Computing Platforms: AWS, Google Cloud Platform
+• Data Visualization Tools: Matplotlib, Seaborn, Tableau
+• Communication Skills: Excellent written and verbal communication skills
 
 ## Contact
 
