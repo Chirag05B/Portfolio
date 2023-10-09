@@ -1,4 +1,4 @@
-# NLP Portfolio
+# Portfolio
 
 Welcome to my portfolio! I'm passionate about leveraging the power of Machine Learning to solve real-world problems. This repository serves as an introduction to my work in the field of Machine Learning, including NLP projects on sentiment analysis, text summarization, and chatbot development.
 
