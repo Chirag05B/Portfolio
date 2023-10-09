@@ -24,9 +24,9 @@ Welcome to my portfolio! I'm passionate about leveraging the power of Machine Le
 
 ## Skills
 - Experienced:
-Python • TensorFlow • Scikit-learn • Pandas • Matplotlib • NLTK • spaCy
+Python • TensorFlow • Scikit-learn • Pandas • Matplotlib • NLTK • spaCy • LLMs
 - Intermediate:
-PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio
+PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio • LangChain
 - Familiar:
 AWS • GCP • Docker • Tableau • JAX • MATLAB
 
@@ -37,4 +37,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - LinkedIn: [chirag05b](https://www.linkedin.com/in/chirag05b/)
 - Email: chirag05b@gmail.com
 
-Thank you for visiting my NLP portfolio, and I look forward to connecting with you!
+Thank you for visiting my portfolio, and I look forward to connecting with you!
