@@ -29,12 +29,13 @@ Welcome to my portfolio! I'm passionate about leveraging the power of Machine Le
 - **Repository:** [Link to the Chatbot Development Project Repository]
 
 ## Skills
-
-- Programming Languages: Python, SQL
-- Machine Learning Libraries: Scikit-Learn, TensorFlow
-- Cloud Computing Platforms: AWS, Google Cloud Platform
-- Data Visualization Tools: Matplotlib, Seaborn, Tableau
-- Communication Skills: Excellent written and verbal communication skills
+- Experienced:
+Python • TensorFlow • Scikit-learn Pandas • Matplotlib • NLTK • spaCy
+- Intermediate:
+PyTorch • SQL • PySpark
+Statistics • HuggingFace • Gradio
+- Familiar:
+AWS • GCP • Docker Tableau • JAX • MATLAB
 
 ## Contact
 
