@@ -38,6 +38,7 @@ AWS • GCP • Docker • Tableau • JAX • MATLAB
 - Machine Learning Engineering for Production (MLOps) | DeepLearning.AI (January 2023)
 - TensorFlow: Advanced Techniques | DeepLearning.AI (September 2022)
 - TensorFlow Developer Professional Certificate | DeepLearning.AI (August 2022)
+- Machine Learning | Stanford University/DeepLearning.AI (August 2022)
 - Deep Learning | DeepLearning.AI (February 2022)
 - Machine Learning | Stanford Online (October 2021)
 
