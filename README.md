@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! I'm passionate about leveraging the power of Machine Learning to solve real-world problems. This repository serves as an introduction to my work in the field of Machine Learning, including NLP projects on sentiment analysis, text summarization, and chatbot development.
 
+As I set my sights on a rewarding career, my goal is to contribute my expertise to cutting-edge Machine Learning and NLP projects in a professional setting. I am eager to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.
+
 ## Projects
 
 ### Sentiment Analysis
