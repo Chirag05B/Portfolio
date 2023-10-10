@@ -34,7 +34,12 @@ AWS • GCP • Docker • Tableau • JAX • MATLAB
 
 ## Certifications
 - Natural Language Processing | DeepLearning.AI (September 2023)
-- 
+- Practical Data Science on the AWS Cloud | AWS (May 2023)
+- Machine Learning Engineering for Production (MLOps) | DeepLearning.AI (January 2023)
+- TensorFlow: Advanced Techniques | DeepLearning.AI (September 2022)
+- TensorFlow Developer Professional Certification | DeepLearning.AI (August 2022)
+- Deep Learning | DeepLearning.AI (February 2022)
+- Machine Learning | Stanford Online (October 2021)
 
 ## Contact
 
