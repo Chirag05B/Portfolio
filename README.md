@@ -32,6 +32,10 @@ PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio • LangCh
 - Familiar:
 AWS • GCP • Docker • Tableau • JAX • MATLAB
 
+## Certifications
+- Natural Language Processing | DeepLearning.AI (September 2023)
+- 
+
 ## Contact
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through any of the following channels:
