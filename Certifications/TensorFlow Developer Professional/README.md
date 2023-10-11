@@ -5,7 +5,7 @@
 </p>
 <hr>  
 
-# [DeepLearning.AI-Natural-Language-Processing-Specialization](https://www.coursera.org/specializations/natural-language-processing)
+# [DeepLearning.AI-TensorFlow-Developer-Professional-Certificate](https://www.coursera.org/specializations/natural-language-processing)
 This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI Natural Language Processing Specialization on Coursera.
 
 [![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/Natural%20Language%20Processing/Coursera%20NLP%20Specialization.jpg)](https://coursera.org/verify/specialization/2L62G8FZAETJ)
@@ -22,10 +22,10 @@ This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI
 - Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering, and to build chatbots. Learn T5, BERT, transformer, reformer, and more with 🤗  Transformers!  
  
 ### Courses:
-1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)  
-2. [Natural Language Processing with Probabilistic Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Probabilistic%20Models)  
-3. [Natural Language Processing with Sequence Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Sequence%20Models)  
-4. [Natural Language Processing with Attention Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Attention%20Models)  
+1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/TensorFlow%20Developer%20Professional/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)  
+2. [Convolutional Neural Networks in TensorFlow](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/TensorFlow%20Developer%20Professional/Convolutional%20Neural%20Networks%20in%20TensorFlow)  
+3. [Natural Language Processing in TensorFlow](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/TensorFlow%20Developer%20Professional/Natural%20Language%20Processing%20in%20TensorFlow)  
+4. [Sequences-Time Series and Prediction](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/TensorFlow%20Developer%20Professional/Sequences-Time%20Series%20and%20Prediction)  
 
 # Disclamer
 The files uploaded here are only for reference. 
