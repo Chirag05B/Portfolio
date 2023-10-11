@@ -8,7 +8,7 @@
 # [DeepLearning.AI-TensorFlow-Developer-Professional-Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI Natural Language Processing Specialization on Coursera.
 
-[![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/TensorFlow%20Developer%20Professional/TensorFlow%20Developer%20Professional%20Certificate_page-0001.jpg)]
+[![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/TensorFlow%20Developer%20Professional%20Certificate/TensorFlow%20Developer%20Professional%20Certificate_page-0001.jpg)](https://coursera.org/verify/professional-cert/QF3V72TSPUH5)
 
  
  
