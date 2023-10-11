@@ -5,21 +5,21 @@
 </p>
 <hr>  
 
-# [DeepLearning.AI-TensorFlow-Developer-Professional-Certificate](https://www.coursera.org/specializations/natural-language-processing)
+# [DeepLearning.AI-TensorFlow-Developer-Professional-Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI Natural Language Processing Specialization on Coursera.
 
-[![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/Natural%20Language%20Processing/Coursera%20NLP%20Specialization.jpg)](https://coursera.org/verify/specialization/2L62G8FZAETJ)
+[![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/TensorFlow%20Developer%20Professional/TensorFlow%20Developer%20Professional%20Certificate_page-0001.jpg)
 
  
  
  # About the specialization
- This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper. 
+ TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models.
 
  ### What I learned
- - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, translate words, and use locality-sensitive hashing to approximate nearest neighbors.  
-- Use dynamic programming, hidden Markov models, and word embeddings to autocorrect misspelled words, autocomplete partial sentences, and identify part-of-speech tags for words.  
-- Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions.   
-- Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering, and to build chatbots. Learn T5, BERT, transformer, reformer, and more with 🤗  Transformers!  
+ - Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for computer vision applications.  
+- Handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout. 
+- Build natural language processing systems using TensorFlow.  
+- Apply RNNs, GRUs, and LSTMs as you train them using text repositories.
  
 ### Courses:
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/TensorFlow%20Developer%20Professional/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)  
