@@ -13,7 +13,7 @@ This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI
  
  
  # About the specialization
- TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models.
+ TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program taught me to apply machine learning skills with TensorFlow so I could build and train powerful models.
 
  ### What I learned
  - Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for computer vision applications.  
