@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm passionate about leveraging the power of Machine Le
 
 As I set my sights on a rewarding career, my goal is to contribute my expertise to cutting-edge Machine Learning and NLP projects in a professional setting. I am eager to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.
 
-## [Projects](https://github.com/Chirag05B/Portfolio/tree/main/Projects)
+## Projects(https://github.com/Chirag05B/Portfolio/tree/main/Projects)
 
 ### Sentiment Analysis
 
