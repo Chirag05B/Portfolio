@@ -1,3 +1,3 @@
-[![TFDP](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/TensorFlow%20Developer%20Professional%20Certificate/Convolutional%20Neural%20Networks%20in%20TensorFlow/Convolutional%20Neural%20Networks%20in%20TensorFlow_page-0001.jpg)](https://coursera.org/verify/specialization/2L62G8FZAETJ)
+[![MLS](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/Machine%20Learning%20(2022)/Advanced%20Learning%20Algorithms/Advanced%20Learning%20Algorithms_page-0001.jpg)](https://coursera.org/verify/specialization/2L62G8FZAETJ)
 
  
