@@ -33,7 +33,7 @@ PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio • LangCh
 AWS • GCP • Docker • Tableau • JAX • MATLAB
 
 ## Certifications
-- Generative AI with Large Language Models | DeepLearning.AI (October 2023)
+- [Generative AI with Large Language Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Generative%20AI%20with%20Large%20Language%20Models) | DeepLearning.AI (October 2023)
 - [Natural Language Processing](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing) | DeepLearning.AI (September 2023)
 - Practical Data Science on the AWS Cloud | AWS (May 2023)
 - Machine Learning Engineering for Production (MLOps) | DeepLearning.AI (January 2023)
