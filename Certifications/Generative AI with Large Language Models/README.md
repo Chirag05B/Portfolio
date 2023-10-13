@@ -5,7 +5,7 @@
 </p>
 <hr>  
 
-# [DeepLearning.AI-Deep Learning-Specialization](https://coursera.org/specializations/deep-learning)
+# [DeepLearning.AI-Generative-AI-with-Large-Language-Models](https://www.coursera.org/learn/generative-ai-with-llms)
 This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI Deep Learning Specialization on Coursera.
 
 [![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/Deep%20Learning/Deep%20Learning_page-0001.jpg)](http://coursera.org/verify/specialization/9YMSKUMH4N6U)
@@ -13,20 +13,16 @@ This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI
  
  
  # About the specialization
- The Deep Learning Specialization is a foundational program that helped me understand the capabilities, challenges, and consequences of deep learning and prepared me to participate in the development of leading-edge AI technology.
-
+   In Generative AI with Large Language Models (LLMs), I learned the fundamentals of how generative AI works, and how to deploy it in real-world applications.
  ### What I learned
- - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications 
-- Train test sets, analyze variance for DL applications, use standard techniques and optimization algorithms, and build neural networks in TensorFlow
-- Build a CNN and apply it to detection and recognition tasks, use neural style transfer to generate art, and apply algorithms to image and video data  
-- Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question-Answering
+ - Gained foundational knowledge, practical skills, and a functional understanding of how generative AI works
+- Dove into the latest research on Gen AI to understand how companies are creating value with cutting-edge technology
+- Instructed by expert AWS AI practitioners who actively build and deploy AI in business use cases today  
  
 ### Courses:
-1. [Neural Networks and Deep Learning](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning)  
-2. [Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Improving%20Deep%20Neural%20Networks-Hyperparameter%20Tuning-Regularization%20and%20Optimization)  
-3. [Structuring Machine Learning Projects](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Structuring%20Machine%20Learning%20Projects)  
-4. [Convolutional Neural Networks](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Convolutional%20Neural%20Networks)
-5. [Sequence Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Sequence%20Models)
+1. [Generative AI use cases, project lifecycle, and model pre-training](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning)  
+2. [Fine-tuning and evaluating large language models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Improving%20Deep%20Neural%20Networks-Hyperparameter%20Tuning-Regularization%20and%20Optimization)  
+3. [Reinforcement learning and LLM-powered applications](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Structuring%20Machine%20Learning%20Projects)  
 
 # Disclamer
 The files uploaded here are only for reference. 
