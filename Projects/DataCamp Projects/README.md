@@ -5,27 +5,30 @@
 </p>
 <hr>  
 
-# [DeepLearning.AI-Natural-Language-Processing-Specialization](https://www.coursera.org/specializations/natural-language-processing)
-This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI Natural Language Processing Specialization on Coursera.
+# [DataCamp-Natural-Language-Processing-Using-Python](https://www.coursera.org/specializations/natural-language-processing)
 
-[![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/Natural%20Language%20Processing/Coursera%20NLP%20Specialization.jpg)](https://coursera.org/verify/specialization/2L62G8FZAETJ)
+[![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Projects/DataCamp%20Projects/Data%20Camp%20NLP%20Track_page-0001.jpg)](https://www.datacamp.com/completed/statement-of-accomplishment/track/74184e92fb728d9c43a6c9dc2db5ff9da738cc72)
 
  
  
- # About the specialization
- This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper. 
+ # About the track
+ Through this track, I've gained essential Natural Language Processing (NLP) skills, empowering me to turn unstructured data into valuable insights. I've learned to harness NLP in Python for diverse tasks, such as automatically transcribing TED talks, extracting information from articles, and sentiment analysis in movie reviews. Along the way, I've become proficient in key Python NLP libraries like NLTK, scikit-learn, spaCy, and SpeechRecognition.
 
  ### What I learned
- - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, translate words, and use locality-sensitive hashing to approximate nearest neighbors.  
-- Use dynamic programming, hidden Markov models, and word embeddings to autocorrect misspelled words, autocomplete partial sentences, and identify part-of-speech tags for words.  
-- Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions.   
-- Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering, and to build chatbots. Learn T5, BERT, transformer, reformer, and more with 🤗  Transformers!  
+ - I've acquired the skills to harness the power of NLP in Python. This means I can now process unstructured data like TED talks and articles, extracting valuable information automatically. 
+- I've delved into sentiment analysis, enabling me to determine whether a movie review is positive or negative. Plus, I've built my very own chatbot that can understand and respond to human language.
+- I've become proficient in popular NLP libraries such as NLTK, scikit-learn, spaCy, and SpeechRecognition, making me well-equipped to work with text data. 
+- I've learned how to transcribe audio files using NLP techniques and extract insights from various real-world sources like Wikipedia articles, online reviews, and even data from a flight booking system. These skills open doors to a wide range of practical applications.
  
 ### Courses:
-1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)  
-2. [Natural Language Processing with Probabilistic Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Probabilistic%20Models)  
-3. [Natural Language Processing with Sequence Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Sequence%20Models)  
-4. [Natural Language Processing with Attention Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Attention%20Models)  
+1. [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)  
+2. [Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)  
+3. [Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)  
+4. [Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
+5. [Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)
+6. [Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+
+
 
 # Disclamer
 The files uploaded here are only for reference. 
