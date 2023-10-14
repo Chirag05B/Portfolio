@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img height="100" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/17180/regular.png">  
+  <img height="100" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/004/942/original/fb-optimized.jpg?1612253712">  
 
 </p>
 <hr>  
