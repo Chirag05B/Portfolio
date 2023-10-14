@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img height="100" src="https://wordpress.deeplearning.ai/wp-content/uploads/2021/02/LogoFiles_DeepLearning_PrimaryLogo.png">  
+  <img height="100" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/17180/regular.png">  
 
 </p>
 <hr>  
