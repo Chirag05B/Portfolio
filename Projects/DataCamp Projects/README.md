@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img height="100" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/004/942/original/fb-optimized.jpg?1612253712">  
+  <img height="100" src="https://www.datacamp.com/datacamp.png">  
 
 </p>
 <hr>  
