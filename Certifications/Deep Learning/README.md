@@ -5,7 +5,7 @@
 </p>
 <hr>  
 
-# [DeepLearning.AI-Deep Learning-Specialization](https://coursera.org/specializations/deep-learning)
+# [DeepLearning.AI-Deep-Learning-Specialization](https://coursera.org/specializations/deep-learning)
 This is all my notebooks, lab solutions, and assignments for the DeepLearning.AI Deep Learning Specialization on Coursera.
 
 [![Welcome](https://github.com/Chirag05B/Portfolio/blob/main/Certifications/Deep%20Learning/Deep%20Learning_page-0001.jpg)](http://coursera.org/verify/specialization/9YMSKUMH4N6U)
