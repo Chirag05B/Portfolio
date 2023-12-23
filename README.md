@@ -8,21 +8,21 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 
 ### Deploying Machine Learning API
 
-- **Project:** ML IMAGE GENERATION API WITH FASTAPI
+- **Project:** IMAGE GENERATION API WITH FASTAPI
 - **Description:** Developed an ML Image Generation API with FastAPI, seamlessly integrating a pre-trained model for stable diffusion, and implementing dynamic API endpoints for prompt-based image generation with automatic validation and documentation.
-- **Repository:** [ML IMAGE GENERATION API WITH FASTAPI Repository]
+- **Repository:** [Image generation API with FastAPI Project Repository]
 
 ### Text Summarization
 
-- **Project:** [Automatic Text Summarization Using Transformers]
-- **Description:** An NLP model that summarizes lengthy documents into concise, coherent summaries. It employs transformer architecture and has been evaluated for its effectiveness in reducing text length while preserving essential information.
-- **Repository:** [Link to the Text Summarization Project Repository]
+- **Project:** PARAMETER-EFFICIENT FINE-TUNING FOR TEXT SUMMARIZATION WITH LORA
+- **Description:** Executed full fine-tuning on an AWS SageMaker Flan-T5 language model for text summarization, utilizing specific prompts to enhance ROUGE scores. Implemented Parameter-Efficient Fine-Tuning (PEFT) with LoRA, reducing model size and resources while maintaining quality, and conducted a comparative analysis of full fine-tuned and PEFT models using ROUGE metrics, showcasing resource-saving advantages.
+- **Repository:** [PEFT for text summarization with LORA Project Repository]
 
-### Chatbot Development
+### Object Detection
 
-- **Project:** [Interactive Chatbot for Customer Support]
-- **Description:** An interactive chatbot designed to provide customer support in real-time. It integrates with [mention any platforms or tools] and uses natural language understanding to handle customer queries efficiently.
-- **Repository:** [Link to the Chatbot Development Project Repository]
+- **Project:** [CAR DETECTION USING YOLO ALGORITHM]
+- **Description:** Implemented car detection with the YOLO algorithm and TensorFlow in Python, utilizing the YOLOv2 model with pre-trained weights, improving accuracy through non-max suppression (NMS) and intersection over union calculations, and generating bounding box tensors for practical object detection applications.
+- **Repository:** [Car detection using YOLO algorithm Project Repository]
 
 ## Skills
 - Expertise:\
