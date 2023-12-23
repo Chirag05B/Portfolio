@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm passionate about leveraging the power of Machine Le
 
 As I set my sights on a rewarding career, my goal is to contribute my expertise to cutting-edge Machine Learning and NLP projects in a professional setting. I am eager to collaborate with like-minded professionals and organizations, driving innovation and making a meaningful impact in the AI landscape.
 
-## [Projects](https://github.com/Chirag05B/Portfolio/tree/main/Projects)
+## Projects
 
 ### Deploying Machine Learning API
 
@@ -23,6 +23,8 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 - **Project:** [CAR DETECTION USING YOLO ALGORITHM]
 - **Description:** Implemented car detection with the YOLO algorithm and TensorFlow in Python, utilizing the YOLOv2 model with pre-trained weights, improving accuracy through non-max suppression (NMS) and intersection over union calculations, and generating bounding box tensors for practical object detection applications.
 - **Repository:** [Car detection using YOLO algorithm Project Repository]
+
+### [Other Projects](https://github.com/Chirag05B/Portfolio/tree/main/Projects)
 
 ## Skills
 - Expertise:\
