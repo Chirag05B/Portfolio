@@ -6,11 +6,11 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 
 ## Projects
 
-### Sentiment Analysis
+### Deploying Machine Learning API
 
-- **Project:** [Sentiment Analysis for Social Media Posts]
-- **Description:** A sentiment analysis model trained on social media data to classify posts as positive, negative, or neutral sentiment. It utilizes deep learning techniques and has achieved [mention any relevant metrics].
-- **Repository:** [Link to the Sentiment Analysis Project Repository]
+- **Project:** [ML IMAGE GENERATION API WITH FASTAPI]
+- **Description:** Developed an ML Image Generation API with FastAPI, seamlessly integrating a pre-trained model for stable diffusion, and implementing dynamic API endpoints for prompt-based image generation with automatic validation and documentation.
+- **Repository:** [ML IMAGE GENERATION API WITH FASTAPI Repository]
 
 ### Text Summarization
 
