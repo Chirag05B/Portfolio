@@ -25,7 +25,7 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 - **Repository:** [Link to the Chatbot Development Project Repository]
 
 ## Skills
-- Experienced:
+- Expertise:
 Python • TensorFlow • Scikit-learn • Pandas • Matplotlib • NLTK • spaCy • LLMs
 - Intermediate:
 PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio • LangChain
