@@ -25,12 +25,12 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 - **Repository:** [Link to the Chatbot Development Project Repository]
 
 ## Skills
-- Expertise:
+- Expertise:\
 Python • TensorFlow • Scikit-learn • Pandas • Matplotlib • NLTK • spaCy • LLMs
-- Intermediate:
-PyTorch • SQL • PySpark • Statistics • HuggingFace • Gradio • LangChain
-- Familiar:
-AWS • GCP • Docker • Tableau • JAX • MATLAB
+- Intermediate:\
+PyTorch • SQL • PySpark • HuggingFace • LangChain • AWS • FastAPI
+- Familiar:\
+GCP • Docker • Tableau • JAX • MATLAB • Gradio
 
 ## Certifications
 - [Generative AI with Large Language Models](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Generative%20AI%20with%20Large%20Language%20Models) | DeepLearning.AI (October 2023)
