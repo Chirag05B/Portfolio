@@ -16,7 +16,7 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 
 - **Project:** PARAMETER-EFFICIENT FINE-TUNING FOR TEXT SUMMARIZATION WITH LORA
 - **Description:** Executed full fine-tuning on an AWS SageMaker Flan-T5 language model for text summarization, utilizing specific prompts to enhance ROUGE scores. Implemented Parameter-Efficient Fine-Tuning (PEFT) with LoRA, reducing model size and resources while maintaining quality, and conducted a comparative analysis of full fine-tuned and PEFT models using ROUGE metrics, showcasing resource-saving advantages.
-- **Repository:** [PEFT for text summarization with LORA Project Repository]
+- **Repository:** [PEFT for text summarization with LORA Project Repository](https://github.com/Chirag05B/Portfolio/tree/main/Projects/Natural%20Language%20Processing/Text%20Summarizer/PARAMETER-EFFICIENT%20FINE-TUNING%20FOR%20SUMMARIZATION%20WITH%20LORA)
 
 ### Object Detection
 
