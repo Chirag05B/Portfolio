@@ -22,7 +22,7 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 
 - **Project:** CAR DETECTION USING YOLO ALGORITHM
 - **Description:** Implemented car detection with the YOLO algorithm and TensorFlow in Python, utilizing the YOLOv2 model with pre-trained weights, improving accuracy through non-max suppression (NMS) and intersection over union calculations, and generating bounding box tensors for practical object detection applications.
-- **Repository:** [Car detection using YOLO algorithm Project Repository]
+- **Repository:** [Car detection using YOLO algorithm Project Repository](https://github.com/Chirag05B/Portfolio/tree/main/Certifications/Deep%20Learning/Convolutional%20Neural%20Networks/Week%203/Car%20detection%20for%20Autonomous%20Driving)
 
 ### [Other Projects](https://github.com/Chirag05B/Portfolio/tree/main/Projects)
 
