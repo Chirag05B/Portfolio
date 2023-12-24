@@ -27,11 +27,11 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 ### [Other Projects](https://github.com/Chirag05B/Portfolio/tree/main/Projects)
 
 ## Skills
-- Expertise:\
+- **Expertise:**\
 Python • TensorFlow • Scikit-learn • Pandas • Matplotlib • NLTK • spaCy • LLMs
-- Intermediate:\
+- **Intermediate:**\
 PyTorch • SQL • PySpark • HuggingFace • LangChain • AWS • FastAPI
-- Familiar:\
+- **Familiar:**\
 GCP • Docker • Tableau • JAX • MATLAB • Gradio
 
 ## Certifications
