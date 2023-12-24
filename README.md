@@ -10,7 +10,7 @@ As I set my sights on a rewarding career, my goal is to contribute my expertise 
 
 - **Project:** IMAGE GENERATION API WITH FASTAPI
 - **Description:** Developed an ML Image Generation API with FastAPI, seamlessly integrating a pre-trained model for stable diffusion, and implementing dynamic API endpoints for prompt-based image generation with automatic validation and documentation.
-- **Repository:** [Image generation API with FastAPI Project Repository]
+- **Repository:** [Image generation API with FastAPI Project Repository](https://github.com/Chirag05B/Portfolio/tree/main/Projects/ML%20Model%20Deployment/FastAPI/ML%20Web%20Application%20using%20FastAPI)
 
 ### Text Summarization
 
